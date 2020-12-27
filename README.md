@@ -7,7 +7,7 @@
 ● The software present the company many opportunity ,such as looking up the available cars, read the service report which is written by user and earning more money. A dealer can look up the available cars in gallery but it has to login the app in desktop application. Then application shows a list which includes cars. If dealer’s customer selects one of the car in list, it can sell by clicking the button near the list. After a while, the customer who bought a car from the company , comes the gallery to hand over its car to service person to have fixed. Before servis person take the car, client writes a report about problem in car. The report can be written in desktop application. While it is waiting, it has a chance to look up new cars on webpage or mobile app. It has one more big opportunity which it can arrange the service time by mobile app , before it comes so it doesn't has to wait long time. The user is be able to search car by price, model, year, motor performance etc. If this is the first time of the user, it has to fill a form about its information. Whatever he bought or not , company can send information about campaigns or sales. When the service time comes, company can send a warning. Form is filled in desktop application. Every company wants to explain their information to their client. So client can reach information in the webpage.
 
 # Project Detail Report
-<button href = " " name="button">Report</button>
+<button href = "https://github.com/oguzhankrky/CME2210_MOD-DEAL/blob/master/Report.pdf" name="button">Report</button>
 
 # Operating systems compatible with the application
   ● Linux
@@ -39,9 +39,10 @@ id,condition,condition description,Price,City,State,Country,model_year,millage,C
 
 
 # Computer Version Pictures
-![image]()
-![image]()
+![image](https://github.com/oguzhankrky/CME2210_MOD-DEAL/blob/master/images/screen1.png)
+![image](https://github.com/oguzhankrky/CME2210_MOD-DEAL/blob/master/images/screen2.png)
 # Android version Pictures
-![image]()
-![image]()
-![image]()
+![image](https://github.com/oguzhankrky/CME2210_MOD-DEAL/blob/master/images/m1.png)
+![image](https://github.com/oguzhankrky/CME2210_MOD-DEAL/blob/master/images/mobil1.png)
+![image](https://github.com/oguzhankrky/CME2210_MOD-DEAL/blob/master/images/mobil2.png)
+![image](https://github.com/oguzhankrky/CME2210_MOD-DEAL/blob/master/images/mobil4.png)
