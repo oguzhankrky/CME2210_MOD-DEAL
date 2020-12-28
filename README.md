@@ -44,7 +44,6 @@ id,condition,condition description,Price,City,State,Country,model_year,millage,C
 
 
 # Android Version Pictures
-![image](https://github.com/oguzhankrky/CME2210_MOD-DEAL/blob/master/images/m1.png)
 ![image](https://github.com/oguzhankrky/CME2210_MOD-DEAL/blob/master/images/mobil1.png)
 ![image](https://github.com/oguzhankrky/CME2210_MOD-DEAL/blob/master/images/mobil2.png)
 ![image](https://github.com/oguzhankrky/CME2210_MOD-DEAL/blob/master/images/mobil4.png)
